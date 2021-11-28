@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\if_rendaFamilia\bin\Debug\if_rendaFamilia.exe.config
+C:\Users\Usuario\source\repos\if_rendaFamilia\bin\Debug\if_rendaFamilia.exe
+C:\Users\Usuario\source\repos\if_rendaFamilia\bin\Debug\if_rendaFamilia.pdb
+C:\Users\Usuario\source\repos\if_rendaFamilia\obj\Debug\if_rendaFamilia.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\if_rendaFamilia\obj\Debug\if_rendaFamilia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\if_rendaFamilia\obj\Debug\if_rendaFamilia.exe
+C:\Users\Usuario\source\repos\if_rendaFamilia\obj\Debug\if_rendaFamilia.pdb
